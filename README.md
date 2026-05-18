@@ -148,7 +148,7 @@ Aplicação de formulário completo com validação de campos, máscaras e feedb
 
 O projeto utiliza useRef para navegação entre inputs, além de loading visual durante o envio do formulário.
 
-![Print Aula 09](./aula09-cadastro-completo/print.png)
+![Print Aula 09][.\aula09-cadastro-completo\assets\print.png]
 
 ---
 
@@ -171,3 +171,5 @@ Durante o desenvolvimento deste checkpoint foi possível consolidar conhecimento
 Os exercícios permitiram praticar conceitos fundamentais do desenvolvimento mobile, como gerenciamento de estado, persistência de dados, navegação entre telas e validação de formulários.
 
 A evolução ao longo da disciplina contribuiu para uma melhor organização de projetos, escrita de código mais limpa e desenvolvimento de interfaces mais consistentes.
+
+[def]: ./aula09-cadastro-completo/print.png
