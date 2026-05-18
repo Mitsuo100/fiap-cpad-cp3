@@ -148,7 +148,7 @@ Aplicação de formulário completo com validação de campos, máscaras e feedb
 
 O projeto utiliza useRef para navegação entre inputs, além de loading visual durante o envio do formulário.
 
-![Print Aula 09][./aula09-cadastro-completo/assets/print.png]
+![Print Aula 09](./aula09-cadastro-completo/assets/print.png)
 
 ---
 
